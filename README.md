@@ -4,7 +4,6 @@ You can view the project demo on [YouTube](https://www.youtube.com/watch?v=zkw2C
    
 ## Table of contents
 
-
 * [Installation](#installation)
 * [General info](#general-info)
 * [Screenshots](#screenshots)
